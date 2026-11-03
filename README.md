@@ -71,6 +71,6 @@ Attendance: 50.00%
 
 Project Mentor
 
-Mentored by:Mr.Satya Prakash Sethy
-GitHub:@satyaprakashsethy
+Mentored by:Mr.Satya Prakash Sethy[https://github.com/SATYAPRAKASHSETHY]
+GitHub:@satyaprakashsethy[https://github.com/SATYAPRAKASHSETHY]
 Role:Python Mentor/Technical Guide 
