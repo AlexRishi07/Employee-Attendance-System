@@ -1,3 +1,4 @@
+# 
 # Employee Attendance System
 
 **Project No.:** 14  
@@ -67,3 +68,9 @@ Attendance: 50.00%
 
 ## Data file
 `attendance.txt` contains JSON-formatted text. This keeps the required filename while making it straightforward to load and save the employee list safely. Do not delete this file between test cases; the assignment specifies that tests run on the same records.
+
+Project Mentor
+
+Mentored by:Mr.Satya Prakash Sethy
+GitHub:@satyaprakashsethy
+Role:Python Mentor/Technical Guide 
