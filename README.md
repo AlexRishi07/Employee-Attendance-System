@@ -3,8 +3,8 @@
 **Project No.:** 14  
 **Project Title:** Employee Attendance System  
 **Student Name.:** Rishi kumar
-**ERP Number.:**Ru-26-02614
-**Section.:B2
+**ERP Number:**Ru-26-02614
+**Section:B2
 **E-mail id.:**rishi.kumar@rungta.org
 **Language:** Python 3  
 **Concepts:** Dictionaries, Lists, Conditions, Functions, File Handling
