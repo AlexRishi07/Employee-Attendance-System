@@ -6,7 +6,7 @@
 **ERP Number:**Ru-26-02614
 **Section:B2
 **E-mail id.:**rishi.kumar@rungta.org
-**Language:** Python 3  
+**Language:** Python 3 
 **Concepts:** Dictionaries, Lists, Conditions, Functions, File Handling
 
 ## Project objective
